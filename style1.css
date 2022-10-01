@@ -1,0 +1,31 @@
+body
+{
+background-color: pink;
+background-image: url(hd.jpg);
+}
+
+/*div
+{
+border:solid 2px;
+width: 25%;
+}*/
+
+h1
+{
+	color: green;
+	text-align: center;
+	text-decoration: underline;
+}
+
+ul
+{
+	list-style-type: square;
+}
+
+h1:hover
+{
+	font-size : 40px;
+	color: red;
+}
+
+

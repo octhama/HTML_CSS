@@ -1,0 +1,105 @@
+p
+{
+text-align: justify;
+}
+
+p::first-letter 
+{
+	color:red;
+	font-size:50px;
+}
+
+
+div
+{
+	border : double;
+	text-transform: uppercase;
+	background-color: white;
+
+}
+
+div:hover
+{
+	font-size:20px;
+}
+
+#decal
+{
+ padding-left: 50px
+}
+
+#mag
+{
+	text-transform: uppercase;
+}
+
+body
+{
+	background-color: orange;
+}
+
+caption
+{
+	background-color: red;
+}
+
+thead
+{
+	background-color: green;
+}
+
+table
+{
+	border:solid 1px;
+	border-color: black;
+	border-style: double;
+}
+
+.t1
+{
+	background-color: #1dbdab;
+}
+
+.t2
+{
+	background-color: blue;
+}
+
+.t1:hover
+{
+	font-weight: bold;
+	background-color: white;
+}
+
+.t2:hover
+{
+	font-weight: bold;
+	background-color: white;
+}
+
+*
+{
+	font-family: Calibri;
+}
+
+/*.t4:hover
+{
+	font-weight: bold;
+	background-color: white;
+}
+
+.t3:hover
+{
+	font-weight: bold;
+	background-color: white;
+}*/
+
+/*.t3
+{
+	background-color: #1dbdab;
+}
+
+.t4
+{
+	background-color:blue;
+}*/

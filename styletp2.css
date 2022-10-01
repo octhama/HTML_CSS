@@ -1,0 +1,44 @@
+#tb2
+{
+	position: relative;
+ 	border-collapse: solid black 1px;
+ 	border:solid 1px;
+ 	width: 25%;
+}
+
+ table
+ {
+ 	position: relative;
+ 	border:none;
+ 	width: 60%;
+ }
+form
+{
+	position: relative;
+	bottom:450px;
+	left:400px;
+	background-color: #C3C3C3;
+	width: 40%;
+
+}
+
+*
+{
+	font-family: Calibri;
+}
+
+#t1
+{
+	position: relative;
+	width: 85%
+}
+fieldset
+{
+	width: 60%;
+}
+
+#but
+{
+	position: relative;
+	bottom:10px;s
+}

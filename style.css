@@ -1,0 +1,110 @@
+h1
+
+{
+  color: orange;
+}
+
+h2
+{
+	color: orange;
+}
+
+#Corps
+{
+	color: black;
+	border: solid 2px;
+	/*border-radius: 25px;*/
+	width: 45%;
+}
+
+#Corps:hover
+{
+ font-size: 15px;
+ background-color: orange;
+}
+
+body
+{
+	background-image: url("img.jpg");
+	background-repeat: no-repeat;
+	position: static;
+	background-position: center;
+	font-weight: 600px;
+	
+	
+}
+
+#img1
+{
+	width: 200px;
+	height: 200px;
+	position: static;
+	z-index: 1;
+	float: left;
+}
+#p0
+{
+	
+	width: 500px;
+	position: absolute;
+	z-index: 2;	
+}
+p
+{
+
+	margin: 20px;
+	width: 500px;
+}
+
+*
+{
+	font-family: Calibri;
+	text-align: justify;
+}
+
+/*table
+{
+	color: red;
+}*/
+
+#Pied
+{
+background-color: #60adf7;
+/*width: 1000px*/
+}
+
+#Pied:hover
+{
+ background-color: red;
+}
+
+
+
+/*a:hover
+{
+	font-weight: bolder;
+	color: green;
+}*/
+
+
+
+ 
+a
+{
+	font-style: italic;
+	color:blue;
+}
+
+a:visited
+{
+	font-style: normal;
+	color: green;
+}
+
+a:hover
+{
+	font-weight: bold;
+	color: red;
+}
+
+a:
